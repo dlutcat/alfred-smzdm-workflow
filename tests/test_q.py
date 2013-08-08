@@ -6,5 +6,5 @@ def test_a():
     assert vara == 'test'
 
 def test_b():
-    vara = 'test'
+    vara = 'test2'
     assert vara == 'test2'
