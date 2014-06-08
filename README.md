@@ -5,9 +5,14 @@ alfred-smzdm-workflow
 
 查看[什么值得买](http://www.smzdm.com)上的最新优惠信息。
 
+Update
+======
+
+2014-06-08: smzdm改版导致RSS Feed失效，数据来源改成首页JSON数据。
+
 Screenshot
 ====
-![](http://img1.kantuban.com/pin/f816f2f8817aa2a698a8f84185f8ac5c)
+![](http://production.b0.upaiyun.com/pat/smzdm_screenshot.png)
 
 About
 ===
